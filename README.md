@@ -3,6 +3,9 @@
 
 Unity 上で４脚ロボットの各脚3軸のIKによる計算をしてみました。
 
+動作のようす
+https://twitter.com/devemin/status/1234304828123181056
+
 Math.Net を使います。
 下記URLを参考にAsset フォルダにdllをコピーしてください。
 
