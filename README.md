@@ -3,7 +3,7 @@
 
 Unity 上で４脚ロボットの各脚3軸のIKによる計算をしてみました。
 
-動作のようす
+動作
 
 https://twitter.com/devemin/status/1234304828123181056
 
