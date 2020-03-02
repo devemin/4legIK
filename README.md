@@ -3,12 +3,14 @@
 
 Unity 上で４脚ロボットの各脚3軸のIKによる計算をしてみました。
 
+ボディや足先をグイグイ動かせます。
+
 動作
 
 https://twitter.com/devemin/status/1234304828123181056
 
 Math.Net を使います。
-下記URLを参考にAsset フォルダにdllをコピーしてください。
+下記URLを参考にAsset フォルダにdllをコピーすれば使えます。
 
 
 
@@ -31,7 +33,7 @@ targetFL, FR, RL, RR を動かすと、足先が動きます。（position, rota
 エラー処理や範囲外処理など一切しておりません・・・
 試してみたい方はどうぞ。
 
-
+Unity 2019.1.10f1
 
 MIT Liscence.
 
