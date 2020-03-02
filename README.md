@@ -9,22 +9,21 @@ Unity 上で４脚ロボットの各脚3軸のIKによる計算をしてみま�
 
 https://twitter.com/devemin/status/1234304828123181056
 
-Math.Net を使います。
+
+# ●使い方
+
+1. Math.Net を使います。
+
 下記URLを参考にAsset フォルダにdllをコピーすれば使えます。
-
-
 
 If you use this, you have to copy DLL (Math.Net) to Asset folder.
 
 https://note.com/narikinnn/n/nc299291ec60e
 
+2. シーン mathnetIK.unity を開きます。
 
-# ●使い方
-シーン mathnetIK.unity を開きます。
-
-オブジェクト
-targetBase を動かすと、ボディが動きます。（position, rotation）
-targetFL, FR, RL, RR を動かすと、足先が動きます。（position, rotation）
+3. オブジェクト　targetBase を動かすと、ボディが動きます。（position, rotation）
+オブジェクト　targetFL, FR, RL, RR を動かすと、足先が動きます。（position, rotation）
 
 その位置に合わせて脚サーボがIK計算により動きます。
 
