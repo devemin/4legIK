@@ -22,7 +22,9 @@ https://note.com/narikinnn/n/nc299291ec60e
 
 2. シーン mathnetIK.unity を開きます。
 
-3. オブジェクト　targetBase を動かすと、ボディが動きます。（position, rotation）
+3.再生ボタンを押します。
+
+4. オブジェクト　targetBase を動かすと、ボディが動きます。（position, rotation）
 オブジェクト　targetFL, FR, RL, RR を動かすと、足先が動きます。（position, rotation）
 
 その位置に合わせて脚サーボがIK計算により動きます。
