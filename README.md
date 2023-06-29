@@ -36,7 +36,7 @@ https://note.com/narikinnn/n/nc299291ec60e
 
 Unity 2019.1.10f1
 
-MIT Liscence.
+MIT License.
 
 
 @devemin
